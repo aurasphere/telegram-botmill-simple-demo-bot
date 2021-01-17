@@ -1,0 +1,8 @@
+/target/
+/.classpath
+/.project
+/.settings/org.eclipse.jdt.core.prefs
+/.settings/org.eclipse.m2e.core.prefs
+/src/main/webapp/META-INF/MANIFEST.MF
+/src/main/webapp/META-INF/maven/co.aurasphere.botmill.telegram/pizza-bot-tg/pom.properties
+/src/main/webapp/META-INF/maven/co.aurasphere.botmill.telegram/pizza-bot-tg/pom.xml
